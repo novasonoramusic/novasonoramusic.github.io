@@ -1,0 +1,11 @@
+html {
+  background-color: black;
+}
+
+.main-container {
+  background-color: black;
+  color: rgb(250, 243, 232);
+  margin-top: 5rem;
+  text-align: center;
+  font-family: 'Lucida Sans', sans-serif;
+}
